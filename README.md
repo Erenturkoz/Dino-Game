@@ -7,7 +7,7 @@ This is a clone of the classic Chrome Dino game built using Python and Pygame. R
 ![GameOver Screenshot](assets/Other/Game_Over_SS.png)
 ## 🎮 Gameplay
 
-![Gameplay](assets/Other/Game.gif)
+![Gameplay](assets/Other/game.gif)
 
 ## ✨ Features
 
