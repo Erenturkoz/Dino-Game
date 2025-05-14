@@ -7,7 +7,7 @@ This is a clone of the classic Chrome Dino game built using Python and Pygame. R
 
 ## 🎮 Gameplay Video
 
-▶️ [Watch Gameplay Video](https://streamable.com/ru7uig)
+▶![Watch Gameplay Video](assets/Other/game.gif)
 
 ## ✨ Features
 
