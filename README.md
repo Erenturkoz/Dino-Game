@@ -2,12 +2,12 @@
 
 This is a clone of the classic Chrome Dino game built using Python and Pygame. Run, jump, and duck to avoid incoming obstacles like cacti and birds in this endless runner game.
 
-![Gameplay Screenshot](assets/Other/screenshot.png)
+![Gameplay Screenshot](assets/Other/In_Game_SS.png)
+![GameOver Screenshot](assets/Other/Game_Over_SS.png)
 
 ## 🎮 Gameplay Video
 
-▶️ [Watch Gameplay Video](https://your-video-link.com)  
-*(Replace this link with your uploaded gameplay video URL)*
+▶️ [Watch Gameplay Video](https://streamable.com/ru7uig)
 
 ## ✨ Features
 
